@@ -1,0 +1,80 @@
+<html>
+
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+	
+
+<link rel="stylesheet" href="testCssFloat.css">
+
+
+
+<script>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown menu if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+</head>
+
+<body>
+	<div id="Full">
+		<div id="Section1">
+			<div class="dropdown">
+  				<button onclick="myFunction()" class="dropbtn">Menu</button>
+  				<div id="myDropdown" class="dropdown-content">
+  				<a href="#">Fiction</a>
+  				<a href="#">Poetry</a>
+  				<a href="#">Essays</a>
+  				<a href="#">Literary Thoughts</a>
+  				<a href="#">Miscellaneous</a>
+  				<a href="#">Criticism</a>
+  				<a href="#">Reference</a>
+				</div>
+			</div>
+		</div>
+	
+				
+
+			</div>
+			<div id="Section2">
+				
+				<h1><p><center>Introduction</center></p></h1>
+				
+		<p>General introduction of the website goes here...this is to test how the text will appear in the rest of the container D. It should move down to go below container C and the entire 			text will run in slight cascading structure. 
+
+<br> <br>Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing Testing testing </p>
+
+		<div id="Section3">
+			<div id="Section3">
+				<div style="border: 2px solid white"; padding: 25px 50px 60px 60px;>
+				<h3><center>Timeline</center></3>
+				<center>
+				<p>A timeline of James' life could go here. This is to test how large does this padding space take.</p>
+				
+				</center>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
+

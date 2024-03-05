@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 17.0px Arial; color: #ffffff; -webkit-text-stroke: #ffffff; background-color: #487387}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 17.0px Arial; color: #efefef; -webkit-text-stroke: #efefef}
+    p.p3 {margin: 0.0px 0.0px 14.0px 0.0px; text-align: center; text-indent: 30.0px; font: 14.0px Baskerville; -webkit-text-stroke: #000000}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 12.0px 0.0px; text-indent: 30.0px; font: 12.0px Arial; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p7 {margin: 0.0px 0.0px 10.0px 0.0px; text-indent: 30.0px; font: 10.0px Arial; color: #6d6d6d; -webkit-text-stroke: #6d6d6d; min-height: 11.0px}
+    p.p8 {margin: 0.0px 0.0px 10.0px 0.0px; text-indent: 30.0px; font: 10.0px MingLiU; color: #6d6d6d; -webkit-text-stroke: #6d6d6d}
+    p.p9 {margin: 0.0px 0.0px 18.0px 0.0px; text-indent: 30.0px; font: 18.0px 'Helvetica Neue'; color: #487387; -webkit-text-stroke: #487387}
+    p.p10 {margin: 0.0px 0.0px 12.0px 0.0px; text-indent: 30.0px; font: 12.0px Garamond; color: #6d6d6d; -webkit-text-stroke: #6d6d6d}
+    p.p11 {margin: 0.0px 0.0px 12.0px 0.0px; text-indent: 30.0px; font: 12.0px Arial; color: #6d6d6d; -webkit-text-stroke: #6d6d6d; min-height: 14.0px}
+    p.p12 {margin: 0.0px 0.0px 12.0px 0.0px; text-indent: 30.0px; font: 12.0px Arial; -webkit-text-stroke: #000000}
+    p.p13 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px Arial; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {font-kerning: none; background-color: #262626}
+    span.s3 {font-kerning: none; background-color: #ffffff}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">Home</span></p>
+<p class="p2"><span class="s2">Fiction</span></p>
+<p class="p2"><span class="s2">Poetry</span></p>
+<p class="p2"><span class="s2">Essays</span></p>
+<p class="p2"><span class="s2">Literary Thoughts</span></p>
+<p class="p2"><span class="s2">Misc.</span></p>
+<p class="p2"><span class="s2">Criticism of James' Writings</span></p>
+<p class="p2"><span class="s2">Reference</span></p>
+<p class="p3"><span class="s3"><b>Original Text of</b></span><span class="s1"><b><br>
+</b></span><span class="s3"><b>"To Mother"ã€Œçµ¦æ¯è¦ªã€</b></span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1"></span><br></p>
+<h5 style="margin: 0.0px 0.0px 16.6px 0.0px; font: 10.0px Arial; color: #6d6d6d; -webkit-text-stroke: #6d6d6d"><span class="s3"><b>è¦ªæ„›çš„æ¯è¦ª:</b></span></h5>
+<p class="p7"><span class="s1"><b></b></span><br></p>
+<p class="p8"><span class="s3">å·²ç¶“ä¸€å¹´äº†ï¼Œè‡ªå¾žåŽ»å¹´äº”æœˆæ”¶éŽä½ çš„ä¿¡å¾Œï¼Œç›´åˆ°ç¾åœ¨å·²æ•´æ•´æœ‰ä¸€å¹´äº†ã€‚ æˆ‘æ²’æœ‰å¯«ä¿¡çµ¦ä½ ï¼Œææ€•æ¯”é€™å€‹æ™‚é–“æ›´çˆ²ä¹…é•·ï¼Œæˆ–è¨±ä¹Ÿæœ‰å¥½å¹¾å€‹å¹´é ­äº†ã€‚ ä¸æ˜¯æˆ‘æŠŠä½ å¿˜å´ï¼Œå¯¦åœ¨æˆ‘æ²’æœ‰é€™å€‹å‹‡æ°£æŠŠä¿¡å¯„å‡ºã€‚ ä»Šæ™šä¸€åˆ‡çš„æ™¯è±¡å°æˆ‘ä»½å¤–çš„æ·’æ¶¼ã€‚ è¨±å¤šæ™‚æˆ‘éƒ½æƒ³å“­ï¼Œå› æ­¤æˆ‘åˆæƒ³èµ·äº†ä½ ã€‚ æˆ‘çš„æ¯è¦ªï¼Œæˆ‘å¾žæ–°æŠŠæ‰€æœ‰å¯«äº†æœªå¯„çš„ä¿¡ä¾†é‡è®€ä¸€æ¬¡ã€‚ ä½ å¥½åƒå‡ºç¾åœ¨æˆ‘çš„çœ¼å‰ï¼Œæˆ‘ä¼åœ¨æ¡Œä¸Šå“­èµ·ä¾†ï¼Œä½ çš„è²éŸ³åƒåœ¨æˆ‘çš„è€³é‚Šä¸åœåœ°å‘¼å–šç€ã€‚</span></p>
+<p class="p8"><span class="s3">æ¯è¦ªï¼Œæˆ‘æœ¬ä¾†æ²’æœ‰ä»€éº¼å¯èªªçš„, ä½†æ˜¯é€™å¹´ä¾†çš„è®Šå¹»ï¼Œä½ ä¸€å®šä¹Ÿæƒ³çŸ¥é“ã€‚ ç„¡è«–æ€Žæ¨£ï¼Œé€™äº›éƒ½æ˜¯éŽåŽ»çš„äº‹äº†, æˆ‘å¸Œæœ›ä½ æ˜Žç™½é€™ä¸€é»žã€‚</span></p>
+<p class="p3"><span class="s3"><b>Translation of</b></span><span class="s1"><b><br>
+</b></span><span class="s3"><b>"To Mother"ã€Œçµ¦æ¯è¦ªã€</b></span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p9"><span class="s3">"I shall then write down this address:</span><span class="s1"><br>
+</span><span class="s3">Humanity, My Mother</span><span class="s1"><br>
+</span><span class="s3">The Ruin of Hell, Earth</span><span class="s1"><br>
+</span><span class="s3">Every Corner Dispersed with Humanity"</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p10"><span class="s3"><b>Dear Mother:</b></span></p>
+<p class="p11"><span class="s1"><b></b></span><br></p>
+<p class="p10"><span class="s3"><b>It has been a year. It has been a full year since I received your letter last May. I am afraid I havenâ€™t written to you even longer, perhaps a few years now. It wasnâ€™t that I have forgotten you; in reality I didnâ€™t have the courage to send out the letters. All the situations are especially dreary to me tonight. I often want to cry, and so I think of you again. My mother-- I reread all those letters I wrote but didnâ€™t send out. You seem to have appeared in front of my eyes and I drop to my desk and cry. Your voice seems to continue calling on me by my ears.</b></span></p>
+<p class="p11"><span class="s1"><b></b></span><br></p>
+<p class="p10"><span class="s3"><b>Mother, I really donâ€™t have much to say, but you most likely would like to know what has happened and changed in these years. No matter what, all these are things of the past and I hope you would understand.</b></span></p>
+<p class="p12"><span class="s3">Rest of the text goes below once fixed with these features: correct margin, scroll overflow, etc.</span></p>
+<p class="p3"><span class="s3"><b>Publication Images of</b></span><span class="s1"><b><br>
+</b></span><span class="s3"><b>"To Mother"ã€Œçµ¦æ¯è¦ªã€</b></span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p13"><span class="s3">Images to be inserted here...</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+</body>
+</html>
