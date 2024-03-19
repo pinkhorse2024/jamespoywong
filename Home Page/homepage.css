@@ -13,6 +13,7 @@ body{
 	
 }
 
+
 #writername {
 	float: right;
 	right: 20px;
@@ -20,7 +21,16 @@ body{
 	margin-right: 20px;
 	color: #e6c222;
 	font-family: "Didot";
+}
 
+#writername-icon{
+  width: 65px;
+  height: 65px;
+  vertical-align: middle;
+  transition: .25s;
+}
+#writername:hover #writername-icon{
+  transform: translate(-75%, 75%) scale(2.5);
 }
 
 #Section1 {
@@ -58,8 +68,7 @@ body{
 
 .dropdown {
     position: relative;
-    display: inline-block;
-    	
+    display: inline-block;	
 }
 
 .dropdown-content {
@@ -83,14 +92,10 @@ body{
      background-color: #f1f1f1
 }
 
-
 .show {display:block;}
-  	
-}
 
 #Section2 {
 	background-color: white;
-	float: right;
 }
 
 #Section3 {
@@ -110,7 +115,7 @@ p {
 	
 }
 
-#Section5 {
+#copyright {
 	background-color: white;
 	flex: 1;
 	text-align: center;
@@ -122,38 +127,9 @@ p {
 }
 
 
-.fa {
-  padding: 20px;
-  font-size: 20px;
-  width: 10px;
-  text-align: center;
-  text-decoration: none;
-}
-
-.fa:hover {
-  opacity: 0.7;
-}
-
-
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
-
-i.fab.fa-twitter {
-content: url(wp-content/uploads/twitter-alt-2.svg);
-}
-
-.fa-google {
-  background: #dd4b39;
-  color: white;
-}
-
-
 footer {
 	border-top: 1px solid grey;
-	font-size: 16px;
+	font-size: 14px;
 	display: flex;
 }
 

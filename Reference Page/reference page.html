@@ -1,0 +1,92 @@
+<html>
+<link>
+<title>About James Poy Wong Writings</title>
+<link rel="icon" type="image/x-icon" href="jpwfaviconV2.png">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+	<link
+		href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+		rel="stylesheet">
+
+
+	<link rel="stylesheet" href="referencepage.css">
+
+	<script>
+		function myFunction() {
+			document.getElementById("myDropdown").classList.toggle("show");
+		}
+
+		window.onclick = function (event) {
+			if (!event.target.matches('.dropbtn')) {
+
+				var dropdowns = document.getElementsByClassName("dropdown-content");
+				var i;
+				for (i = 0; i < dropdowns.length; i++) {
+					var openDropdown = dropdowns[i];
+					if (openDropdown.classList.contains('show')) {
+						openDropdown.classList.remove('show');
+					}
+				}
+			}
+		}
+	</script>
+
+</head>
+
+<body>
+	<div id="full">
+		<div id="Section0">
+			<div class="dropdown">
+				<button onclick="myFunction()" class="dropbtn">Menu</button>
+				<div id="myDropdown" class="dropdown-content">
+					<a href="file:///Users/asiansfashion/Documents/HTML%20files/Home%20Page/Home%20Page.html">Home</a>
+					<a href="file:///Users/asiansfashion/Documents/HTML%20files/About%20Page/about.html">About</a>
+					<a
+						href="file:///Users/asiansfashion/Documents/HTML%20files/Fiction%20Page/fictionpage.html">Fiction</a>
+					<a
+						href="file:///Users/asiansfashion/Documents/HTML%20files/Poetry%20Page/poetrypage.html">Poetry</a>
+					<a
+						href="file:///Users/asiansfashion/Documents/HTML%20files/Essay%20Page/Essay%20Page.html">Essays</a>
+					<a
+						href="file:///Users/asiansfashion/Documents/HTML%20files/Literary%20Thoughts/literarythoughts.html">Literary
+						Thoughts</a>
+					<a
+						href="file:///Users/asiansfashion/Documents/HTML%20files/Criticism%20Page/criticism.html">Criticism</a>
+					<a
+						href="file:///Users/asiansfashion/Documents/HTML%20files/Reference%20Page/reference%20page.html">Reference</a>
+				</div>
+			</div>
+
+			<div id="writername">
+				<h1>James Poy Wong 黃培正</h1>
+			</div>
+
+			<div id="Section1">
+				<div id="header-image"></div>
+
+
+				<div id="Section1">
+					<h2>
+						<p>REFERENCE</p>
+					</h2>
+					<p>The whole list goes here..........</p>
+
+
+					<h2>
+						<p>BIBLIORGRAPHY</p>
+					</h2>
+					<p>List goes here .....</p>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+
+</html>
