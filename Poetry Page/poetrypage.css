@@ -17,7 +17,7 @@ body{
 #Section0 {
 	position: relative;
 	background-color: white;
-	min-height: 400px;
+	min-height: 300px;
 	height: 1px;
 }
 
@@ -30,6 +30,7 @@ body{
 	background-size: cover;
 	background-position: 50% 50%;
 	margin-top: 20px;
+  margin-bottom: 40px;
     	padding: 40px 0 40px;
 }
 
@@ -39,27 +40,6 @@ body{
 	color: #e6c222;
 	font-family: "Didot";
 }
-
-#Selectedquote {
-	top: 60%;
-	left: 50%;
-	font-family: "Didot";
-	color: grey;
-	min-width: 80%;
-	font-size: 24px;
-}
-
-#quote-speaker{
-	padding-right: 60px;
-	text-align: right;
-	font-size: 32px;
-	font-weight: bold;
-	color: #6b6d6e(0, 40, 150);
-}
-
-#quote-text{
-	text-align: center;
-}	
 
 .dropbtn {
     background-color: #809ba6;
@@ -109,6 +89,10 @@ body{
 	display:block;
 }
   	
+#ContentSection{
+  position: relative;
+  margin: 20px;
+}
 
 #Section1 {
 	background-color: white;
@@ -124,6 +108,7 @@ p {
 table, th, td {
   border:2px solid grey;
   vertical-align: center;
+  margin-top: 160px;
 }
 
 table {
@@ -160,18 +145,7 @@ img {
   border-left: none;
 }
 
-#Section2 {
-	background-color: white;
-	flex: 1;
-	float: left;
-	
-}
 
-#Section3 {
-	background-color: white;
-	flex: 1;
-	float: right; 
-}
 
 #footer {
 	font-size: 16px;

@@ -96,6 +96,7 @@ body{
 
 #Section2 {
 	background-color: white;
+  text-align: center;
 }
 
 #Section3 {
@@ -108,22 +109,11 @@ p {
   text-indent: 50px;
 }
 
-#Section4 {
-	background-color: white;
-	display: flex;
-	flex-direction: row;
-	
-}
 
 #copyright {
 	background-color: white;
 	flex: 1;
 	text-align: center;
-}
-
-#Section6 {
-	background-color: white;
-	text-align: right;
 }
 
 
