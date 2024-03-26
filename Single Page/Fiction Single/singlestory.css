@@ -139,3 +139,13 @@ body{
 p {
    text-indent: 50px;
 }
+
+@media only screen and (max-device-width: 490px){
+	#Section1{
+		gap: 0;
+	}
+	#Section2, #Section3{
+		margin: 0;
+		font-size: 12px;
+	}
+}

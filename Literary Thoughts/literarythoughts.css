@@ -17,14 +17,12 @@ body{
 #Section0 {
 	position: relative;
 	background-color: white;
-	min-height: 300px;
-	height: 1px;
 }
 
 #Headersection {
 	background-color: white;
 	width: 100%;
-	height: 100%;
+	height: 300px;
 	background-image: url("literarythoughtsheader.png");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -108,7 +106,7 @@ p {
 table, th, td {
   border:2px solid grey;
   vertical-align: center;
-  margin-top: 160px;
+  margin-top: 30px;
 }
 
 table {
