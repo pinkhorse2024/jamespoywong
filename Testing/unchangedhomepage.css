@@ -13,27 +13,19 @@ body{
 	
 }
 
+
 #writername {
-  display: flex;
 	float: right;
 	right: 20px;
 	top: 20px;
 	margin-right: 20px;
 	color: #e6c222;
 	font-family: "Didot";
-  align-items: center;
-}
-
-#writername h1{
-  margin: 0;
-  margin-right: 15px;
-  text-align: center;
-  margin-top: 3px;
 }
 
 #writername-icon{
-  width: 80px;
-  height: 80px;
+  width: 65px;
+  height: 65px;
   vertical-align: middle;
   transition: .25s;
 }
@@ -46,9 +38,14 @@ body{
 }
 
 
-.header-image {
+#header-image{
 	width: 100%;
-  margin-top: 10px;
+	height: 100%;
+	background-image: url("homepageimage.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	margin-top: 20px;
 }
 
 .dropbtn {
@@ -99,13 +96,6 @@ body{
 
 #Section2 {
 	background-color: white;
-    text-align: center;
-    width: 92%
-}
-
-#Section2 p {
-  font-size: 22px;
-  text-indent: 50px;
   text-align: center;
 }
 
@@ -114,10 +104,9 @@ body{
 	margin: 20px;
 }
 
-#Section3 img {
-  max-width: 100%;
-  height: auto;
-  display: block;
+p {
+  font-size: 22px;
+  text-indent: 50px;
 }
 
 
@@ -136,37 +125,4 @@ footer {
 
 a {
   color: #d1b969;
-}
-
-
-/* Changing name to only be on separate lines if screen is too small */
-@media only screen and (min-width: 700px) {
-  #writername br{
-   display: none;
-  }
-}
-
-/* Changing font size of name to get gradually smaller on smaller screens*/
-
-/* Between 390px and 490px width screens, use font size of 20px */
-@media only screen and (min-width: 390px) and (max-width: 490px) {
-  #writername h1{
-   font-size: 20px
-  }
-}
-
-/* For screens smaller than 390px, use a font size of 16px */
-@media only screen and (max-width: 390px) {
-  #writername h1{
-    font-size: 16px;
-  }
-}
-
-
-/* For screens smaller than 590px wide, change main body of text to have smaller font size */
-@media only screen and (max-width: 590px) {
-  #Section1 p{
-    font-size: 15px;
-
-  }
 }
