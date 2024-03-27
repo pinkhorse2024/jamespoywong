@@ -103,6 +103,12 @@ body{
     width: 92%
 }
 
+#Section2 p {
+  font-size: 22px;
+  text-indent: 50px;
+  text-align: center;
+}
+
 #Section3 {
 	background-color: white;
 	margin: 20px;
@@ -112,12 +118,6 @@ body{
   max-width: 100%;
   height: auto;
   display: block;
-}
-
-p {
-  font-size: 22px;
-  text-indent: 50px;
-  text-align: center;
 }
 
 
