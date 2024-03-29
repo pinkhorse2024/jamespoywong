@@ -19,17 +19,11 @@ body{
 	background-color: white;
 }
 
-#Headersection {
-	background-color: white;
+
+.header-image {
 	width: 100%;
-	height: 300px;
-	background-image: url("literarythoughtsheader.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 50% 50%;
-	margin-top: 20px;
-  margin-bottom: 40px;
-    	padding: 40px 0 40px;
+  height: auto;
+  margin-top: 10px;
 }
 
 #writername {
@@ -151,4 +145,36 @@ img {
 
 a {
   color: #d1b969;
+}
+
+/* Changing name to only be on separate lines if screen is too small */
+@media only screen and (min-width: 700px) {
+  #writername br{
+   display: none;
+  }
+}
+
+/* Changing font size of name to get gradually smaller on smaller screens*/
+
+/* Between 390px and 490px width screens, use font size of 20px */
+@media only screen and (min-width: 390px) and (max-width: 490px) {
+  #writername h1{
+   font-size: 20px
+  }
+}
+
+/* For screens smaller than 390px, use a font size of 16px */
+@media only screen and (max-width: 390px) {
+  #writername h1{
+    font-size: 16px;
+  }
+}
+
+
+/* For screens smaller than 590px wide, change main body of text to have smaller font size */
+@media only screen and (max-width: 590px) {
+  #Section1 p{
+    font-size: 15px;
+
+  }
 }

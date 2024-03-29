@@ -8,31 +8,30 @@ body{
 	background-color: white;
 }
 
+#Topsection {
+	display: flex;
+	flex-direction: row;
+}
+
 
 #Section0 {
 	position: relative;
 	background-color: white;
-	min-height: 100px;
 }
 
-#SectionHeader{
-	position: relative;
-	min-height: 800px;
-	height: 1px;
-	
-}
-
-.header-image {
-	width: 100%;
-	height: auto;
-}
-
-#ContentSection {
+#Headersection {
 	background-color: white;
-	display: flex;
-	flex-direction: row;
-	gap: 50px;
+	width: 100%;
+	height: 400px;
+	background-image: url("fictionpageheaderV6.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+    padding: 40px 0 40px;
 }
+
 
 #writername {
 	float: right;
@@ -70,8 +69,6 @@ body{
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     font-family: 'Merriweather';
-	z-index: 1;
-    
 }
 
 .dropdown-content a {
@@ -85,37 +82,81 @@ body{
      background-color: #f1f1f1
 }
 
-
 .show {
 	display:block;
-}
-  	
+}	
 
-#Section2 {
-	background-color: #d8e1e6;
-	flex: 1;
-	font-size: 16px;
-	margin-left: 40px;
-	padding: 20px;
-	
-}
-
-#Section3 {
-	background-color:  #e8eaeb;
-	flex: 2;
-	font-size: 18px;
-	font-family: 'Merriweather';
-	margin-right: 40px;
-	padding: 20px;
-}
-
-#Section4 {
+#Section1 {
 	background-color: white;
+	margin: 40px;
+  text-align: center;
 }
 
+h1 {
+text-align: center;
+}
 
 p {
    text-indent: 50px;
+}
+
+table, th, td {
+  border:2px solid grey;
+  vertical-align: center;
+  margin-top: 10px; 
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid;
+  
+}
+
+th {
+  text-align: center;
+  vertical-align: center;
+  background-color: #31437d;
+  padding: 1px; 
+  Color: white;
+}
+
+tr:hover {background-color: #dcdee3;}
+
+
+td {
+  text-align: left;
+  padding: 15px;
+}
+
+img {
+  width: 70px; 
+  height: 70px;
+}
+
+.left-title-cell{
+  border-right: none;
+  text-align: left;
+  padding-left: 37px;
+}
+
+.right-title-cell{
+  border-left: none;
+}
+
+#Section2 {
+	background-color: white;
+  text-align: center;
+  margin-left: 40px;
+	
+}
+
+#footer {
+	font-size: 16px;
+  text-align: center;
+}
+
+a {
+  color: #d1b969;
 }
 
 /* Changing name to only be on separate lines if screen is too small */
@@ -147,13 +188,5 @@ p {
   #Section1 p{
     font-size: 15px;
 
-  }
-}
-
-@media only screen and (max-width: 590px) {
-  #SectionHeader {
-    position: relative;
-	min-height: 650px;
-	height: 1px;
   }
 }

@@ -25,14 +25,9 @@ body{
 	background-color: white;
 }
 
-#header-image{
+.header-image {
 	width: 100%;
-	height: 100%;
-	background-image: url("aboutpageheader.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: 50% 50%;
-	margin-top: 20px;
+  margin-top: 10px;
 }
 
 .dropbtn {
@@ -86,13 +81,19 @@ body{
 #Section2 {
 	background-color: white;
 	margin: 60px;
+	
 }
 
 #Section3 {
 	background-color: #edebe6;
-	margin: 60px;
+	margin: 40px;
 	padding: 30px;
 	float: left;	
+}
+
+#Section3 img {
+	width: 433px;
+	height: 600px;
 }
 
 #Section4 {
@@ -108,4 +109,49 @@ body{
 p {
   font-size: 22px;
   text-indent: 50px;
+  
+}
+
+#footer {
+	font-size: 16px;
+  text-align: center;
+}
+
+a {
+  color: #d1b969;
+}
+
+@media only screen and (min-width: 700px) {
+  #writername br{
+   display: none;
+  }
+}
+
+@media only screen and (min-width: 390px) and (max-width: 490px) {
+  #writername h1{
+   font-size: 20px
+  }
+}
+
+/* For screens smaller than 390px, use a font size of 16px */
+@media only screen and (max-width: 390px) {
+  #writername h1{
+    font-size: 16px;
+  }
+}
+
+/* For screens smaller than 590px wide, change main body of text to have smaller font size */
+@media only screen and (max-width: 590px) {
+  #Section1 p{
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 915px) {
+  #Section3  {
+	.img {
+		width: 50%;
+	}
+
+  }
 }
