@@ -17,8 +17,8 @@ body{
 
 #SectionHeader{
 	position: relative;
-	min-height: 800px;
-	height: 1px;
+	min-height: 462px;
+
 	
 }
 
@@ -31,7 +31,8 @@ body{
 	background-color: white;
 	display: flex;
 	flex-direction: row;
-	gap: 50px;
+  margin-top: 30px;
+	gap: 40px;
 }
 
 #writername {
@@ -156,4 +157,14 @@ p {
 	min-height: 650px;
 	height: 1px;
   }
+}
+
+@media only screen and (max-device-width: 490px){
+	#ContentSection {
+		gap: 0;
+	}
+	#Section2, #Section3{
+		margin: 0;
+		font-size: 12px;
+	}
 }
