@@ -33,7 +33,7 @@ body{
 
 #Selectedquote {
 	position: absolute;
-	top: 60%;
+	top: 65%;
 	left: 50%;
 	font-family: "Didot";
 	color: white;
@@ -116,7 +116,7 @@ body{
 #Section2 {
 	background-color: #c7bdaf;
 	flex: 1;
-	font-size: 16px;
+	font-size: 18px;
 	margin-left: 40px;
 	padding: 20px;
 	
