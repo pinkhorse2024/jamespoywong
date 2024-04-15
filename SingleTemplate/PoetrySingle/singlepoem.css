@@ -115,7 +115,7 @@ body{
 #Section2 {
 	background-color: #d1cbc2;
 	flex: 1;
-	font-size: 16px;
+	font-size: 18px;
 	margin-left: 40px;
 	padding: 20px;
 	
@@ -124,7 +124,7 @@ body{
 #Section3 {
 	background-color:  #f0dfd5;
 	flex: 1.5;
-	font-size: 18px;
+	font-size: 19px;
 	font-family: 'Merriweather';
 	margin-right: 40px;
 	padding: 20px;
