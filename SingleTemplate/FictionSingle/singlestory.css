@@ -131,8 +131,27 @@ body{
 	padding: 20px;
 }
 
-#Section4 {
-	background-color: white;
+#Section5 {
+	padding: 40px;
+}
+
+.ImageHolderRow{
+	display: flex;
+	justify-content: center;
+}
+
+.ImageHolderRow div{
+	padding: 20px;
+	text-align: center;
+}
+
+.ImageHolderRow    a{
+	display: block;
+}
+
+.ImageHolderRow img{
+	width: 8vw;
+	height: auto
 }
 
 
