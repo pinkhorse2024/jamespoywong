@@ -2,6 +2,10 @@ body{
 	margin-top: 0
 }
 
+#go-away.goawaydisplay1{
+  display: none;
+}
+
 #go-away{
   position: fixed;
   top: 0;
