@@ -35,11 +35,19 @@ body{
     margin-top: 10px;
 }
 
-
+#Section2 {
+  background-color: white;
+}
 
 p {
   font-size: 22px;
   text-indent: 50px;
+}
+
+#copyright {
+	background-color: white;
+	flex: 1;
+	text-align: center;
 }
 
 
