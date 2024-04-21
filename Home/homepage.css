@@ -137,7 +137,7 @@ body{
 /* Between 390px and 490px width screens, use font size of 20px */
 @media only screen and (min-width: 390px) and (max-width: 490px) {
   #writername h1{
-   font-size: 40px
+   font-size: 50px
   }
 }
 
