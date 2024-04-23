@@ -68,3 +68,44 @@ p {
   font-size: 22px;
   text-indent: 50px;
 }
+
+#copyright {
+	background-color: white;
+	flex: 1;
+	text-align: center;
+}
+
+@media only screen and (min-width: 700px) {
+  #writername br{
+   display: none;
+  }
+}
+
+@media only screen and (min-width: 390px) and (max-width: 490px) {
+  #writername h1{
+   font-size: 50px
+  }
+}
+
+/* For screens smaller than 390px, use a font size of 16px */
+@media only screen and (max-width: 390px) {
+  #writername h1{
+    font-size: 16px;
+  }
+}
+
+/* For screens smaller than 590px wide, change main body of text to have smaller font size */
+@media only screen and (max-width: 590px) {
+  #Section1 p{
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 915px) {
+  #Section3  {
+	.img {
+		width: 50%;
+	}
+
+  }
+}
