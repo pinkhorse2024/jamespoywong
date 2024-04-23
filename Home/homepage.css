@@ -94,6 +94,11 @@ body{
     width: 92%
 }
 
+#Section1 p{
+  font-size: 24px;
+  line-height: 28px;
+}
+
 #Section2 p {
   font-size: 22px;
   text-indent: 50px;
@@ -137,7 +142,7 @@ body{
 /* Between 390px and 490px width screens, use font size of 20px */
 @media only screen and (min-width: 390px) and (max-width: 490px) {
   #writername h1{
-   font-size: 50px
+   font-size: 20px
   }
 }
 
@@ -152,7 +157,7 @@ body{
 /* For screens smaller than 590px wide, change main body of text to have smaller font size */
 @media only screen and (max-width: 590px) {
   #Section1 p{
-    font-size: 15px;
-
+    font-size: 20px;
+    line-height: 23px;
   }
 }
