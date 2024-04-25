@@ -128,7 +128,9 @@ body{
 	text-align: center;
 }
 
-
+p {
+  text-align: left;
+}
 
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
