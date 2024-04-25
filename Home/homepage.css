@@ -97,12 +97,13 @@ body{
 #Section1 p{
   font-size: 24px;
   line-height: 28px;
+  text-align: left;
 }
 
 #Section2 p {
   font-size: 22px;
   text-indent: 50px;
-  text-align: center;
+  text-align: left;
 }
 
 #Section3 {
@@ -128,9 +129,6 @@ body{
 	text-align: center;
 }
 
-.p {
-  text-align: left;
-}
 
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
