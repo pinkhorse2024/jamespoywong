@@ -112,6 +112,10 @@ p {
   text-align: left;
 }
 
+a {
+  color: #d1b969;
+}
+
 #copyright {
 	background-color: white;
 	flex: 1;
