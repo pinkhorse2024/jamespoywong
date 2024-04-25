@@ -104,12 +104,13 @@ body{
   font-size: 22px;
   text-indent: 50px;
   text-align: left;
+  margin-left: 20px;
 }
 
 #Section3 {
 	background-color: white;
-	margin: 20px;
-}
+	margin-left: 20px;
+  text-align: left;
 
 #Section3 img {
   max-width: 100%;
