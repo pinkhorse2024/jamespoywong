@@ -23,6 +23,7 @@ body{
 
 #Section1 {
 	background-color: white;
+  margin: 20px;
 }
 
 .header-image {
@@ -100,11 +101,14 @@ body{
 	background-color: white;
 	margin: 20px;
 	font-size: 20px;
+  
 }
 
 #Section4 img{
 	float: right;	
+  margin-left: 20px;
 }
+
 
 p {
   font-size: 22px;
