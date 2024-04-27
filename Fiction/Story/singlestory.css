@@ -116,7 +116,7 @@ body{
 #Section2 {
 	background-color: #c7bdaf;
 	flex: 1;
-	font-size: 22px;
+	font-size: 18px;
 	margin-left: 40px;
 	padding: 20px;
 	
@@ -165,6 +165,6 @@ p {
 	}
 	#Section2, #Section3{
 		margin: 0;
-		font-size: 12px;
+		font-size: 20px;
 	}
 }
