@@ -123,7 +123,7 @@ body{
 
 #Section3 {
 	background-color:  #f0dfd5;
-	flex: 1.9;
+	flex: 1.5;
 	font-size: 19px;
 	font-family: 'Merriweather';
 	margin-right: 40px;
@@ -175,6 +175,7 @@ body{
 	#Section2{
 		margin: 0;
 		font-size: 18px;
+		flex: 1;
 	}
 }
 
@@ -183,5 +184,6 @@ body{
 	 #Section3{
 		margin: 0;
 		font-size: 18px;
+		flex: 2;
 	}
 }
