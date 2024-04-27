@@ -172,8 +172,16 @@ body{
 	#Section1{
 		gap: 0;
 	}
-	#Section2, #Section3{
+	#Section2{
 		margin: 0;
-		font-size: 12px;
+		font-size: 20px;
+	}
+}
+
+@media only screen and (max-device-width: 490px){
+	
+	 #Section3{
+		margin: 0;
+		font-size: 20px;
 	}
 }
