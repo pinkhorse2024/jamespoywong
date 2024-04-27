@@ -174,8 +174,7 @@ body{
 	}
 	#Section2{
 		margin: 0;
-		font-size: 18px;
-		flex: 1;
+		font-size: 20px;
 	}
 }
 
@@ -184,6 +183,6 @@ body{
 	 #Section3{
 		margin: 0;
 		font-size: 18px;
-		flex: 2;
+		
 	}
 }
