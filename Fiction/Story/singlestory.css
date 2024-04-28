@@ -159,6 +159,12 @@ p {
    text-indent: 50px;
 }
 
+#copyright {
+	background-color: white;
+	flex: 1;
+	text-align: center;
+}
+
 @media only screen and (max-device-width: 490px){
 	#Section1{
 		gap: 0;

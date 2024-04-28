@@ -134,7 +134,11 @@ body{
 	background-color: white;
 }
 
-
+#copyright {
+	background-color: white;
+	flex: 1;
+	text-align: center;
+}
 
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
