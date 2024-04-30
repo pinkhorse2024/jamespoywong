@@ -56,6 +56,11 @@ p {
    text-indent: 50px;
 }
 
+#copyright {
+	background-color: white;
+	flex: 1;
+	text-align: center;
+}
 
 table, th, td {
   border:2px solid grey;
