@@ -140,14 +140,14 @@ body{
 	text-align: center;
 }
 
-#p0 { 
+.p0 { 
 	text-indent: 2em; 
     line-break: normal;
 }
 
-#p1 { text-indent: 4em; }
-#p2 { text-indent: 15px; }
-#p3 { text-indent: 10%; }
+.p1 { text-indent: 4em; }
+.p2 { text-indent: 15px; }
+.p3 { text-indent: 10%; }
 
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
