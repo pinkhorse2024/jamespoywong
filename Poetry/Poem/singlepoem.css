@@ -132,6 +132,7 @@ body{
 
 #Section4 {
 	background-color: white;
+	text-align: left;
 }
 
 #copyright {
@@ -140,14 +141,12 @@ body{
 	text-align: center;
 }
 
-.p0 { 
-	text-indent: 2em; 
-    line-break: normal;
-}
-
+.p0 { text-indent: 2em; }
 .p1 { text-indent: 4em; }
-.p2 { text-indent: 15px; }
-.p3 { text-indent: 10%; }
+.p2 { text-indent: 15px;}
+.p3 { text-indent: 160px;}
+.p4 { text-indent: 1em; }
+.p5 {text-indent: 300px;}
 
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
