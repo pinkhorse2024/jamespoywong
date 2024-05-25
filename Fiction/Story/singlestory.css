@@ -159,11 +159,20 @@ p {
    text-indent: 50px;
 }
 
+.p0 { text-indent: 2em; }
+.p1 { text-indent: 4em; }
+.p2 { text-indent: 15px;}
+.p3 { text-indent: 160px;}
+.p4 { text-indent: 1em; }
+.p5 {text-indent: 300px;}
+
 #copyright {
 	background-color: white;
 	flex: 1;
 	text-align: center;
 }
+
+
 
 @media only screen and (max-device-width: 490px){
 	#Section1{
