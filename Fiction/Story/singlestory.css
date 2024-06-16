@@ -162,9 +162,11 @@ p {
 .p0 { text-indent: 2em; }
 .p1 { text-indent: 4em; }
 .p2 { text-indent: 15px;}
+.p2B{ text-indent: 35px;}
 .p3 { text-indent: 160px;}
 .p4 { text-indent: 1em; }
 .p5 {text-indent: 300px;}
+.p6 {text-indent: 50px;}
 
 #copyright {
 	background-color: white;
