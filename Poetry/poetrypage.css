@@ -96,6 +96,7 @@ img {
 .left-title-cell{
   border-right: none;
   text-align: left;
+  padding-left: 80px;
 }
 
 .right-title-cell{
