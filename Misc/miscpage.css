@@ -75,6 +75,51 @@ p {
 	text-align: center;
 }
 
+
+
+
+table, th, td {
+  border:2px solid rgb(153, 154, 167);
+}
+
+table {
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
+th {
+  text-align: center;
+  background-color: #54acc7;
+  padding: 1px; 
+}
+
+tr:hover {
+  background-color: #efe8ea;
+}
+
+
+td {
+  text-align: left;
+  padding: 15px;
+}
+
+img {
+  width: 70px; 
+  height: 70px;
+}
+
+.left-title-cell{
+  border-right: none;
+  text-align: left;
+  padding-left: 42px;
+  
+}
+
+.right-title-cell{
+  border-left: none;
+}
+
+
 @media only screen and (min-width: 700px) {
   #writername br{
    display: none;
