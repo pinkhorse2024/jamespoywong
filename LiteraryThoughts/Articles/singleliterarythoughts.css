@@ -115,7 +115,7 @@ body{
 #Section2 {
 	background-color: #f0e9da;
 	flex: 1;
-	font-size: 16px;
+	font-size: 18px;
 	margin-left: 40px;
 	padding: 20px;
 	
@@ -132,12 +132,27 @@ body{
 
 #Section4 {
 	background-color: white;
+	text-align: left;
+	padding: 10px;
+	margin-left: 30px;
+	margin-right: 30px;
 }
 
 
 p {
    text-indent: 50px;
 }
+
+.p0 { text-indent: 2em; }
+.p1 { text-indent: 4em; }
+.p2 { text-indent: 15px;}
+.p2A { text-indent: 8px;}
+.p2B{ text-indent: 40px;}
+.p3 { text-indent: 160px;}
+.p4 { text-indent: 1em; }
+.p5 {text-indent: 300px;}
+.p6 {text-indent: 50px;}
+.p7 { text-indent: 12 px;}
 
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
