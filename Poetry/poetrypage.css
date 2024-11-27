@@ -62,6 +62,13 @@ p {
 	text-align: center;
 }
 
+.p0 { text-indent: 2em; }
+.p1 { text-indent: 4em; }
+.p2 { text-indent: 15px;}
+.p3 { text-indent: 160px;}
+.p4 { text-indent: 1em; }
+.p5 {text-indent: 300px;}
+
 table, th, td {
   border:2px solid grey;
   vertical-align: center;
