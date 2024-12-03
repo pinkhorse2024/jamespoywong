@@ -100,6 +100,13 @@ img {
 	
 }
 
+#Section3 {
+	background-color: white;
+  text-align: left;
+  margin-left: 40px;
+	
+}
+
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
   #writername br{
