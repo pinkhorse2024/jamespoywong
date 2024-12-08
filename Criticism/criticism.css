@@ -94,6 +94,8 @@ img {
 	background-color: white;
 	flex: 1;
 	float: left;
+  text-align: center;
+  font-size: 14px;
 	
 }
 
