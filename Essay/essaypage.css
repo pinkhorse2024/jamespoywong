@@ -94,6 +94,12 @@ img {
   border-left: none;
 }
 
+ #Section4 {
+	background-color: white;
+	font-size: 12px;
+	
+}
+
 #Section5 {
 	background-color: white;
 	flex: 1;

@@ -138,12 +138,15 @@ body{
 
 #Section4 {
 	background-color: white;
-	text-align: left;
+	text-align: center;
 	padding: 10px;
 	margin-left: 30px;
 	margin-right: 30px;
 }
 
+#Section5 {
+	background-color: white;
+}
 
 p {
    text-indent: 50px;
