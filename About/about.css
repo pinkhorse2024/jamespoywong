@@ -109,6 +109,13 @@ body{
   margin-left: 20px;
 }
 
+#Section5 {
+	background-color: white;
+	text-align: left;
+	padding: 10px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
 
 p {
   font-size: 20px;
