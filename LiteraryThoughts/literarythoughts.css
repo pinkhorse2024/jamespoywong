@@ -47,6 +47,7 @@ body{
 
 p {
    text-indent: 50px;
+   text-align: left;
 }
 
 .p0 { text-indent: 2em; }
