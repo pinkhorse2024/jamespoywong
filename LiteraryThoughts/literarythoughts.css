@@ -44,6 +44,10 @@ body{
 	margin: 60px;
 }
 
+#Section2 {
+	background-color: white;
+	margin: 60px;
+}
 
 p {
    text-indent: 50px;
@@ -72,9 +76,6 @@ p {
 #Section5 {
 	background-color: white;
 	text-align: center;
-	padding: 10px;
-	margin-left: 60px;
-	margin-right: 60px;
 }
 
 table, th, td {
