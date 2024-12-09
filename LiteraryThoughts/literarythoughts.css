@@ -48,6 +48,8 @@ body{
 p {
    text-indent: 50px;
    text-align: left;
+   margin-right: 60px;
+   margin-left: 60px;
 }
 
 .p0 { text-indent: 2em; }
@@ -69,7 +71,7 @@ p {
 
 #Section5 {
 	background-color: white;
-	text-align: left;
+	text-align: center;
 	padding: 10px;
 	margin-left: 60px;
 	margin-right: 60px;
