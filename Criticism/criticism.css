@@ -46,7 +46,7 @@ body{
 }
 
 p {
-  font-size: 22px;
+  font-size: 18px;
   text-indent: 50px;
 }
 
@@ -92,8 +92,6 @@ img {
 
 #Section5 {
 	background-color: white;
-	flex: 1;
-	float: left;
   text-align: center;
   font-size: 14px;
 	
