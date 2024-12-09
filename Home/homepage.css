@@ -95,13 +95,13 @@ body{
 }
 
 #Section1 p{
-  font-size: 20px;
+  font-size: 18px;
   line-height: 28px;
   text-align: left;
 }
 
 #Section2 p {
-  font-size: 20px;
+  font-size: 18px;
   text-indent: 50px;
   margin: 20px;
 }
@@ -109,6 +109,7 @@ body{
 #Section3 {
 	background-color: white;
 	margin: 20px;
+  font-size: 18px;
 }
 
 #Section3 img {
