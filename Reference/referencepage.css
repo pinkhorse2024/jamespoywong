@@ -36,12 +36,42 @@ body{
 
 #Section2 {
   background-color: white;
+  text-indent: 60px;
+  margin-left: 0px;
+}
+
+#Section3 {
+	text-indent: 60px;
+	margin-left: 60px;
+}
+
+#Section4 {
+  background-color: white;
+  text-indent: 60px;
+  margin-left: 0px;
+}
+
+#Section5 {
+	text-indent: 60px;
+	margin-left: 60px;
+}
+
+#Section6 {
+	text-indent: 60px;
+	margin-left: 60px;
+}
+
+#Section7 {
+	margin-left: 45px;
 }
 
 p {
-  font-size: 22px;
-  text-indent: 50px;
+  font-size: 16px;
+  text-indent: 60px;
+  margin-left: 60px;
 }
+
+
 
 #copyright {
 	background-color: white;
@@ -49,4 +79,60 @@ p {
 	text-align: center;
 }
 
+.p0 { text-indent: 2em; }
+.p1 { text-indent: 4em; }
+.p2 { text-indent: 15px;}
+.p3 { text-indent: 50px;}
+.p4 { text-indent: 1em; }
+.p5 {text-indent: 300px;}
 
+/* Changing name to only be on separate lines if screen is too small */
+@media only screen and (min-width: 700px) {
+  #writername br{
+   display: none;
+  }
+}
+
+/* Changing font size of name to get gradually smaller on smaller screens*/
+
+/* Between 390px and 490px width screens, use font size of 20px */
+@media only screen and (min-width: 390px) and (max-width: 490px) {
+  #writername h1{
+   font-size: 20px
+  }
+}
+
+/* For screens smaller than 390px, use a font size of 16px */
+@media only screen and (max-width: 390px) {
+  #writername h1{
+    font-size: 15px;
+  }
+}
+
+
+/* For screens smaller than 590px wide, change main body of text to have smaller font size */
+@media only screen and (max-width: 590px) {
+  #Section1 p{
+    font-size: 16px;
+
+  }
+}
+
+@media only screen and (max-device-width: 490px){
+	#Section1{
+		gap: 0;
+	}
+	#Section2{
+		margin: 0;
+		font-size: 20px;
+	}
+}
+
+@media only screen and (max-device-width: 490px){
+	
+	 #Section3{
+		margin: 0;
+		font-size: 18px;
+		
+	}
+}
