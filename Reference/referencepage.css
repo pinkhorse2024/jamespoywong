@@ -4,13 +4,6 @@ body{
 
 #full {
 	width: 100%;
-	background-color: white;
-	
-}
-
-#Section0 {
-	background-color: white;
-	
 }
 
 #writername {
@@ -20,12 +13,6 @@ body{
 	margin-right: 20px;
 	color: #e6c222;
 	font-family: "Didot";
-
-}
-
-#Section1 {
-	background-color: white;
-	
 }
 
 .header-image {
@@ -34,35 +21,22 @@ body{
     margin-top: 10px;
 }
 
-#Section2 {
-  background-color: white;
+.reference-header {
   text-indent: 60px;
   margin-left: 0px;
+  background-color: goldenrod;
 }
 
-#Section3 {
-	text-indent: 60px;
+.reference-subheader {
+	background-color:rgb(69, 129, 202)
+}
+
+.reference-section {
 	margin-left: 60px;
 }
 
-#Section4 {
-  background-color: white;
-  text-indent: 60px;
-  margin-left: 0px;
-}
-
-#Section5 {
-	text-indent: 60px;
-	margin-left: 60px;
-}
-
-#Section6 {
-	text-indent: 60px;
-	margin-left: 60px;
-}
-
-#Section7 {
-	margin-left: 45px;
+a:visited {
+	color: black;
 }
 
 h1 sup {
@@ -96,10 +70,10 @@ p {
 
 .p0 { text-indent: 2em; }
 .p1 { text-indent: 4em; }
-.p2 { text-indent: 15px;}
-.p3 { text-indent: 50px;}
+.p2 { text-indent: 15px; }
+.p3 { text-indent: 50px; }
 .p4 { text-indent: 1em; }
-.p5 {text-indent: 300px;}
+.p5 { text-indent: 300px; }
 
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {

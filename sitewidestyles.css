@@ -69,6 +69,11 @@ a {
   margin-right: auto;
 }
 
+
+footer {
+	border-top: 1px solid grey;
+}
+
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
   #writername br{
