@@ -65,6 +65,21 @@ body{
 	margin-left: 45px;
 }
 
+h1 sup {
+    transform: translateY(-9px);
+    font-size: 18px;
+    display: inline-block;
+    text-indent: 0;
+}
+
+h2 sup {
+    font-size: 18px;
+}
+
+h1, h2 {
+	padding: 10px 0;
+}
+
 p {
   font-size: 16px;
   text-indent: 60px;

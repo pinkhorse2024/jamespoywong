@@ -138,6 +138,7 @@ body{
 .ImageHolderRow{
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
 }
 
 .ImageHolderRow div{
