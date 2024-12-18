@@ -72,6 +72,7 @@ a {
 
 footer {
 	border-top: 1px solid grey;
+  text-align: center;
 }
 
 /* Changing name to only be on separate lines if screen is too small */
