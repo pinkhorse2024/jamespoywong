@@ -118,6 +118,11 @@ body{
   display: block;
 }
 
+p {
+  font-size: 20px;
+  text-indent: 50px;
+}
+
 .center {
   display: block;
   margin-left: auto;
