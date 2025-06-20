@@ -92,7 +92,7 @@ body{
 	background-color: white;
     text-align: center;
     width: 92%
-    margin: 20px;
+    margin: 40px;
 }
 
 #Section1 p{
@@ -104,7 +104,7 @@ body{
 #Section2 p {
   font-size: 18px;
   text-indent: 50px;
-  margin: 60px;
+  margin: 20px;
 }
 
 #Section3 {
