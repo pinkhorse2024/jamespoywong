@@ -80,6 +80,7 @@ body{
 
 #Section1 {
 	background-color: white;
+  margin: 60px;
   
 }
 
@@ -105,7 +106,7 @@ body{
 #Section2 p {
   font-size: 18px;
   text-indent: 50px;
-  margin: 60px;
+  
 }
 
 #Section3 {
