@@ -125,7 +125,10 @@ p {
 #Section6 {
   font-size: 12px; 
 }
-.p2B{ text-indent: 40px;}
+.p2B { 
+  text-indent: 50px;
+  margin: 30px; 
+}
 
 a {
   color: #d1b969;
