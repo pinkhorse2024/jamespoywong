@@ -49,7 +49,7 @@
 footer {
 	border-top: 1px solid grey;
 	font-size: 12px;
-    text-align: center;
+  text-align: center;
 }
 
 a {
@@ -69,10 +69,6 @@ a {
 }
 
 
-footer {
-	border-top: 1px solid grey;
-  text-align: center;
-}
 
 /* Changing name to only be on separate lines if screen is too small */
 @media only screen and (min-width: 700px) {
