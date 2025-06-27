@@ -97,8 +97,8 @@ img {
 
  #Section4 {
 	background-color: white;
-	font-size: 14px;
-  text-indent: 80px;
+	font-size: 16px;
+  margin: 40px; 
 	
 }
 
@@ -113,6 +113,10 @@ img {
 	background-color: white;
 	flex: 1;
 	float: right; 
+}
+
+table {
+  margin-bottom: 10px;
 }
 
 
