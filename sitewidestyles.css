@@ -106,6 +106,6 @@ a,
 a:visited,
 a:hover,
 a:active {
-  color: gold;
+  color: rgb(209, 187, 64);
   text-decoration: underline;
 }
