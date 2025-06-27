@@ -109,3 +109,7 @@ a:active {
   color: #e6c222 !important;
   text-decoration: underline;
 }
+
+footer, #copyright, #copyright p {
+  font-size: 14px !important; /* Change 14px to your desired size */
+}
