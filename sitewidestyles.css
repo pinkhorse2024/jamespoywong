@@ -106,6 +106,6 @@ a,
 a:visited,
 a:hover,
 a:active {
-  color: rgb(209, 187, 64);
+  color: rgb(209, 187, 64) !important;
   text-decoration: underline;
 }
