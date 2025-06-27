@@ -130,6 +130,12 @@ body{
 	padding: 20px;
 }
 
+#Section4 {
+	background-color: #f0e9da;
+	font-size: 14px;
+	text-align: center;
+}
+
 #Section5 {
 	background-color: white;
 	text-align: left;
