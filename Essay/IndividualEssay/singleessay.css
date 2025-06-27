@@ -215,3 +215,11 @@ p {
 		font-size: 12px;
 	}
 }
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #e6c222 !important;
+  text-decoration: underline;
+}
