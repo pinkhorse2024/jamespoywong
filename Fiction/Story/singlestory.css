@@ -57,7 +57,7 @@ body{
 
 
 .dropbtn {
-    background-color: #809ba6;
+    background-color: gold;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -69,7 +69,7 @@ body{
 }
 
 .dropbtn:hover, .dropbtn:focus {
-    background-color: gold;
+    background-color: #60a38c;
     Color: black;
 }
 
