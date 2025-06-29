@@ -62,7 +62,7 @@ table, th, td {
 
 table {
   border-collapse: collapse;
-  border: 2px solid;
+  border: 1px solid;
 }
 
 th {
