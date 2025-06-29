@@ -109,10 +109,8 @@ table {
 th {
   text-align: center;
   background-color: #36a4c5;
-  vertical-align: center;
+  vertical-align: middle;
   height: 42px;
-  padding-top: 12px;
-  padding-bottom: 8px;
   font-size: 22px;
 }
 
