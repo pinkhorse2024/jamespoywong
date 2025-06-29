@@ -68,7 +68,9 @@ table {
 th {
   text-align: center;
   background-color: #d9964a;
-  height: 50px; 
+  height: 60px;
+  line-height: 60px;
+  padding: 0;
 }
 
 tr:hover {
