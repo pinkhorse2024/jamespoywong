@@ -70,9 +70,9 @@ th {
   background-color: #d9964a;
   vertical-align: middle;
   height: 42px;
-  font-size: 22px;
-  padding-top: 12px;
-  padding-bottom: 8px;
+  line-height: 22px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 tr:hover {
