@@ -39,7 +39,22 @@ body{
 	font-family: "Didot";
 }
 
+.dropbtn {
+    background-color: gold;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    margin-top: 20px;
+    Margin-left: 20px; 
+    border: none;
+    cursor: pointer;
+    font-family: 'Merriweather';
+}
 
+.dropbtn:hover, .dropbtn:focus {
+    background-color: rgb(73, 131, 73);
+    Color: black;
+}
   	
 #ContentSection{
   position: relative;

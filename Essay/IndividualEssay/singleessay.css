@@ -23,23 +23,6 @@ body{
   margin-bottom: 40px;
 }
 
-.dropbtn {
-    background-color: gold;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    margin-top: 20px;
-    Margin-left: 20px; 
-    border: none;
-    cursor: pointer;
-    font-family: 'Merriweather';
-    float: left;
-}
-
-.dropbtn:hover, .dropbtn:focus {
-    background-color: #d3e0e3;
-    Color: black;
-}
 
 #writername {
 	float: right;
