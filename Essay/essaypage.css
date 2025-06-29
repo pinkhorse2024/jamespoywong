@@ -71,6 +71,7 @@ th {
   vertical-align: middle;
   height: 42px;
   font-size: 22px;
+  padding-top: 12px;
 }
 
 tr:hover {
