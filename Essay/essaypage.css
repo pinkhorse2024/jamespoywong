@@ -65,14 +65,10 @@ table {
   border: 1px solid;
 }
 
-th, td {
-  padding: 10px;
-}
-
 th {
   text-align: center;
   background-color: #d9964a;
-  padding: 1px; 
+  padding: 5px; 
 }
 
 tr:hover {
