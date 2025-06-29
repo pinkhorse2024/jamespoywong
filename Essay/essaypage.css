@@ -56,7 +56,7 @@ p {
 
 table, th, td {
   border:2px solid grey;
-  vertical-align: center;
+  vertical-align: middle;
   margin-top: 30px;
 }
 
@@ -71,7 +71,6 @@ th {
   vertical-align: middle;
   height: 42px;
   font-size: 22px;
-
 }
 
 tr:hover {
