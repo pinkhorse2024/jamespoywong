@@ -69,6 +69,7 @@ th {
   text-align: center;
   background-color: #d9964a;
   padding: 5px; 
+  height: 30px; 
 }
 
 tr:hover {
