@@ -110,7 +110,13 @@ th {
   text-align: center;
   background-color: #54acc7;
   padding: 1px; 
+  vertical-align: middle;
+height: 60px;
+padding-top: 20px;
+padding-bottom: 20px;
+font-size: 26px;
 }
+
 
 tr:hover {
   background-color: #efe8ea;
