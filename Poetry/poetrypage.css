@@ -1,5 +1,5 @@
 body{
-	margin: 60px;
+	margin: 0;
 }
 
 #Full {
@@ -58,7 +58,7 @@ body{
   	
 #ContentSection{
   position: relative;
-  margin: 20px;
+  margin: 60px;
 
 }
 
