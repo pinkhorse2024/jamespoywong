@@ -103,7 +103,7 @@ body{
 }
 
 .dropdown-content a:hover {
-     background-color: #e9dbdb
+     background-color: #f1eaea
 }
 
 
@@ -227,5 +227,6 @@ a:active {
 }
 
 .dropdown-content a {
-    color: #000000 !important;
+    color: black !important;
 }
+
