@@ -76,6 +76,8 @@ table, th, td {
 table {
   border-collapse: collapse;
   border: 1px solid;
+  margin-left: 60px; 
+  margin-right: 60px; /* Top/bottom 60px, centered horizontally */
   
 }
 
