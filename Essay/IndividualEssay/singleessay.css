@@ -225,3 +225,7 @@ a:active {
   color: #e6c222 !important;
   text-decoration: underline;
 }
+
+.dropdown-content a {
+    color: #1a73e8 !important;
+}
