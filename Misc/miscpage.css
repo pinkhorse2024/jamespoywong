@@ -40,6 +40,23 @@ body{
 	margin-top: 20px;
 }
 
+.dropbtn {
+    background-color: gold;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    margin-top: 20px;
+    Margin-left: 20px; 
+    border: none;
+    cursor: pointer;
+    font-family: 'Merriweather';
+    float: left;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #36a4c5;
+    Color: black;
+}
 
 #Section2 {
 	background-color: white;
