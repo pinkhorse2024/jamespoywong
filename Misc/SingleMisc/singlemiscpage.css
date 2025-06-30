@@ -215,3 +215,7 @@ p {
 		font-size: 12px;
 	}
 }
+
+.dropdown-content a {
+    color: black !important;
+}
