@@ -21,6 +21,24 @@ body{
     margin-top: 10px;
 }
 
+.dropbtn {
+    background-color: gold;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    margin-top: 20px;
+    Margin-left: 20px; 
+    border: none;
+    cursor: pointer;
+    font-family: 'Merriweather';
+    float: left;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: rgb(69, 129, 202);
+    Color: black;
+}
+
 .reference-header {
   text-indent: 60px;
   margin-left: 0px;
@@ -28,7 +46,7 @@ body{
 }
 
 .reference-subheader {
-	background-color:rgb(69, 129, 202)
+	background-color:rgb(69, 129, 202);
 }
 
 .reference-section {
