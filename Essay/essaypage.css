@@ -61,7 +61,7 @@ body{
 }
 
 #Section3 {
-	background-color: #f5efe1;
+	background-color: #f5efe1
 	margin: 40px;
   font-size: 28px;
 }
@@ -81,6 +81,7 @@ table, th, td {
 table {
   border-collapse: collapse;
   border: 1px solid;
+  font-size: 20px;
 }
 
 th {
