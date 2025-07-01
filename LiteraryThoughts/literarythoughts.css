@@ -100,15 +100,13 @@ p {
 
 table, th, td {
   border:2px solid grey;
-  vertical-align: center;
+  vertical-align: middle;
   margin-top: 30px;
 }
 
 table {
   border-collapse: collapse;
   border: 1px solid;
-  margin-left: 40px;
-  margin-right: 40px;
 }
 
 th {
