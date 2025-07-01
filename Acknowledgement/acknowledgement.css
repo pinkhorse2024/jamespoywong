@@ -110,9 +110,9 @@ body{
 #Section1 {
     background-color: white;
     margin: 60px;
+	padding-left: 60px;
+	padding-right: 60px;
     font-size: 20px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.08); /* subtle shadow */
-    border-radius: 8px; /* optional, for rounded corners */
 }
 
 
