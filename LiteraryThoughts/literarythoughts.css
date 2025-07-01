@@ -59,7 +59,6 @@ body{
 
 #Section1 {
 	background-color: white;
-  margin: 60px;
   font-size: 20px;
   padding-left: 60px;
   padding-right: 60px;
@@ -67,15 +66,13 @@ body{
 
 #Section2 {
 	background-color: white;
-	margin: 60px;
   font-size: 20px;
+  padding-left: 60px;
+  padding-right: 60px;
 }
 
 p {
    text-indent: 50px;
-   text-align: left;
-   margin-right: 60px;
-   margin-left: 60px;
 }
 
 .p0 { text-indent: 2em; }
@@ -104,8 +101,6 @@ table, th, td {
   border:2px solid grey;
   vertical-align: center;
   margin-top: 30px;
-  padding-left: 60px;
-  padding-right: 60px;
 }
 
 table {
