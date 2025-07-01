@@ -102,6 +102,8 @@ table, th, td {
   border:2px solid grey;
   vertical-align: center;
   margin-top: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
 }
 
 table {
