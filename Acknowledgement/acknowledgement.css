@@ -195,8 +195,8 @@ form input[type="email"] {
   }
   
   form textarea {
-	width: 1200px;
-	height: 50px;
+	width: 1000px;
+	height: 32px;
 	font-size: 18px;
 	resize: vertical; 
   }
