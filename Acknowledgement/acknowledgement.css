@@ -15,7 +15,6 @@ body{
 
 #Section0 {
 	position: relative;
-	background-color: white;
 	min-height: 300px;
 }
 
@@ -109,9 +108,11 @@ body{
   	
 
 #Section1 {
-	background-color: white;
-	margin: 60px;
-	font-size: 20px;
+    background-color: white;
+    margin: 60px;
+    font-size: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.08); /* subtle shadow */
+    border-radius: 8px; /* optional, for rounded corners */
 }
 
 
