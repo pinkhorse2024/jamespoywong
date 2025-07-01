@@ -183,3 +183,6 @@ a {
   color: #d1b969;
 }
 
+#email-link img {
+	vertical-align: middle;
+  }
