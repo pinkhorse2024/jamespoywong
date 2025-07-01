@@ -57,6 +57,8 @@ body{
   text-align: center;
   color: #4066a3;
   font-size: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 h1 {
@@ -122,7 +124,8 @@ img {
 	background-color: white;
   text-align: left;
   margin: 60px;
-  padding: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
   font-size: 20px;
 }
 
