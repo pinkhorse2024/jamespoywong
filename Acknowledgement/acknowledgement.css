@@ -186,3 +186,16 @@ a {
 #email-link img {
 	vertical-align: middle;
   }
+
+form input[type="email"] {
+	width: 350px;
+	height: 32px;
+	font-size: 18px;
+  }
+  
+  form textarea {
+	width: 350px;
+	height: 120px;
+	font-size: 18px;
+	resize: vertical; 
+  }
