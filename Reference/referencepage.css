@@ -164,7 +164,7 @@ p {
 @media only screen and (max-width: 600px) {
   #Section1,
   #Section2 {
-    padding-right: 16px !important;
+    padding-right: 20px !important;
     margin: 5px !important;
   }
   p {
