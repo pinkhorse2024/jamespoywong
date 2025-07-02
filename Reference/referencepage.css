@@ -145,3 +145,17 @@ p {
 		
 	}
 }
+
+@media only screen and (max-width: 600px) {
+  #Section1,
+  #Section2 {
+    padding: 10px !important;
+    margin: 5px !important;
+  }
+  p {
+    text-indent: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    font-size: 15px !important;
+  }
+}
