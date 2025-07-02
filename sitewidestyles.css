@@ -1,19 +1,6 @@
 
 
-.dropbtn {
-    color: black;
-    padding: 16px;
-    font-size: 16px;
-    margin-top: 20px;
-    Margin-left: 20px; 
-    border: none;
-    cursor: pointer;
-    font-family: 'Merriweather';
-}
 
-.dropbtn:hover, .dropbtn:focus {
-    Color: black;
-}
 
 .dropdown {
     position: relative;
