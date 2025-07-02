@@ -7,12 +7,14 @@ body{
 }
 
 #writername {
+  display: flex;
 	float: right;
 	right: 20px;
 	top: 20px;
 	margin-right: 20px;
 	color: #e6c222;
 	font-family: "Didot";
+  align-items: center;
 }
 
 .header-image {
@@ -21,7 +23,18 @@ body{
     margin-top: 10px;
 }
 
-
+.dropbtn {
+    background-color: gold;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    margin-top: 20px;
+    Margin-left: 20px; 
+    border: none;
+    cursor: pointer;
+    font-family: 'Merriweather';
+    float: left;
+}
 
 .dropbtn:hover, .dropbtn:focus {
     background-color: rgb(69, 129, 202);
