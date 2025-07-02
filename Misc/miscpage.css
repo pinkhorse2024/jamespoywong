@@ -198,6 +198,6 @@ img {
 #header-image,
 .header-image {
   width: 100%;
-  height: auto;
+  height: 120px;;
   display: block;
 }
