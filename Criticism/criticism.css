@@ -156,3 +156,15 @@ img {
 
   }
 }
+
+@media (max-width: 600px) {
+  #Section1,
+  #Section2 {
+    padding: 10px !important;
+    margin: 5px !important;
+  }
+  .header-image {
+    width: 100%;
+    height: auto;
+  }
+}
