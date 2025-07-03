@@ -38,7 +38,7 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 50% 50%;
-	margin-top: 60px;
+	margin-top: 10px;
 }
 
 .dropbtn {
@@ -57,6 +57,28 @@ body{
 .dropbtn:hover, .dropbtn:focus {
     background-color: #36a4c5;
     Color: black;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  font-family: 'Merriweather';
+  
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
 }
 
 #Section2 {
