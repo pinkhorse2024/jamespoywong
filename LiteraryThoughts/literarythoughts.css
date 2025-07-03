@@ -36,7 +36,7 @@ body > *:first-child {
   color: white;
   padding: 16px;
   font-size: 16px;
-  margin-top: 20px;
+  margin-top: 10px;
   Margin-left: 20px; 
   border: none;
   cursor: pointer;
@@ -54,6 +54,7 @@ body > *:first-child {
 	margin-right: 20px;
 	color: #e6c222;
 	font-family: "Didot";
+  margin-top: 10px;
 }
 
   	
