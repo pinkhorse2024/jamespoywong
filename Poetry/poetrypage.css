@@ -9,8 +9,19 @@ body{
 }
 
 #Topsection {
-	display: flex;
-	flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  align-items: center;      /* Vertically center children */
+  justify-content: space-between; /* Spread children to edges */
+}
+
+#writername {
+  margin-right: 20px;
+  color: #e6c222;
+  font-family: "Didot";
+  display: flex;
+  align-items: center;      /* Vertically center content inside */
+  justify-content: flex-end; /* Align to the right */
 }
 
 
@@ -32,12 +43,7 @@ body{
     	padding: 40px 0 40px;
 }
 
-#writername {
-	float: right;
-	margin-right: 20px;
-	color: #e6c222;
-	font-family: "Didot";
-}
+
 
 .dropbtn {
     background-color: gold;
