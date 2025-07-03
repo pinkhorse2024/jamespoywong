@@ -11,11 +11,6 @@ body{
 #Topsection {
   display: flex;
   flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  flex-wrap: nowrap;      /* Prevent wrapping */
-  padding: 0 20px;
-  background: white;
 }
 
 
@@ -37,23 +32,19 @@ body{
     	padding: 40px 0 40px;
 }
 
-#writername {
-  margin-right: 0;   /* Let flex handle spacing */
-  color: #e6c222;
-  font-family: "Didot";
-  align-items: center;
-  justify-content: flex-end;
-}
+
 
 .dropbtn {
-    background-color: gold;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    margin-left: 0px; 
-    border: none;
-    cursor: pointer;
-    font-family: 'Merriweather';
+  background-color: gold;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  margin-top: 20px;
+  Margin-left: 20px; 
+  border: none;
+  cursor: pointer;
+  font-family: 'Merriweather';
+  float: left;
 }
 
 .dropbtn:hover, .dropbtn:focus {
@@ -61,11 +52,19 @@ body{
     Color: black;
 }
   	
+#writername {
+	float: right;
+	margin-right: 20px;
+	color: #e6c222;
+	font-family: "Didot";
+}
+
 #ContentSection{
   position: relative;
   margin: 60px;
 
 }
+
 
 #Section1 {
 	background-color: white;
