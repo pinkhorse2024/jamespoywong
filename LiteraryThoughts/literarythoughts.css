@@ -17,6 +17,7 @@ body{
 #Section0 {
 	position: relative;
 	background-color: white;
+  margin-top: 0px;
 }
 
 body > *:first-child {
