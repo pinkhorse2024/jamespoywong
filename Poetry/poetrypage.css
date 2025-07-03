@@ -31,9 +31,11 @@ body{
   margin-bottom: 40px;
     	padding: 40px 0 40px;
 }
-
-
-
+.header-image {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
 .dropbtn {
   background-color: gold;
   color: white;
@@ -62,7 +64,6 @@ body{
 #ContentSection{
   position: relative;
   margin: 60px;
-
 }
 
 
