@@ -34,7 +34,9 @@ body{
 
 #writername {
   display: flex;
+	float: right;
 	right: 20px;
+	top: 20px;
 	margin-right: 20px;
 	color: #e6c222;
 	font-family: "Didot";
