@@ -1,18 +1,29 @@
 
 .dropbtn {
+  color: black;
   padding: 16px;
   font-size: 16px;
   margin-top: 20px;
-  margin-left: 20px; 
+  Margin-left: 20px; 
   border: none;
   cursor: pointer;
   font-family: 'Merriweather';
 }
 
+.dropbtn:hover, .dropbtn:focus {
+  Color: black;
+}
 
-.dropdown {
-    position: relative;
-    display: inline-block;	
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  font-family: 'Merriweather';
+  left: 20px;
+  
 }
 
 .dropdown-content {
