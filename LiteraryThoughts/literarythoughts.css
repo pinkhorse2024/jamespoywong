@@ -20,7 +20,8 @@ body{
   margin-top: 0px;
 }
 
-body > *:first-child {
+#Topsection,
+#Section0 {
   margin-top: 0 !important;
   padding-top: 0 !important;
 }
