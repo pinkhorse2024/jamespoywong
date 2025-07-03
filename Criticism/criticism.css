@@ -193,3 +193,32 @@ img {
     height: auto;
   }
 }
+
+/* Reduce white space on mobile devices */
+@media (max-width: 600px) {
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  #Section1,
+  #Section2,
+  #Section3,
+  #Section5,
+  #Section6 {
+    margin: 5px !important;
+    padding: 5px !important;
+  }
+  p {
+    font-size: 15px !important;
+    text-indent: 20px !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+  }
+  table, th, td {
+    padding: 5px !important;
+  }
+  img {
+    width: 40px !important;
+    height: 40px !important;
+  }
+}
