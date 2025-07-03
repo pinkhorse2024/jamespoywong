@@ -15,7 +15,6 @@ body{
 }
 
 #writername {
-  display: flex;
 	float: right;
 	right: 20px;
 	top: 20px;
@@ -52,6 +51,31 @@ body{
   Color: black;
 }
 
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  font-family: 'Merriweather';
+  
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+   background-color: #f2eeee
+}
 #Section2 {
 	background-color: white;
 	margin: 40px;
