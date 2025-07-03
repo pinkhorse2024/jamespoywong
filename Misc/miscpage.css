@@ -16,7 +16,6 @@ body{
 
 
 #writername {
-  display: flex;
 	float: right;
 	right: 20px;
 	top: 20px;
