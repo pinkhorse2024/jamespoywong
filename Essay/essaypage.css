@@ -27,7 +27,7 @@ body{
 
 #Section1 {
 	background-color: white;
-  margin: 60px;
+  margin: 20px;
 }
 
 
@@ -43,7 +43,7 @@ body{
   padding: 16px;
   font-size: 16px;
   margin-top: 20px;
-  Margin-left: 20px; 
+  margin-left: 20px; 
   border: none;
   cursor: pointer;
   font-family: 'Merriweather';
