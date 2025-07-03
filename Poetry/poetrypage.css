@@ -11,10 +11,10 @@ body{
 #Topsection {
   display: flex;
   flex-direction: row;
-  align-items: center;         /* Vertically center items */
-  justify-content: space-between; /* Push items to edges */
-  padding: 0 20px;             /* Optional: space on sides */
-  background: white;           /* Optional: match your design */
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  background: white;
 }
 
 
@@ -40,7 +40,6 @@ body{
   margin-right: 0;   /* Let flex handle spacing */
   color: #e6c222;
   font-family: "Didot";
-  display: flex;
   align-items: center;
   justify-content: flex-end;
 }
@@ -50,7 +49,7 @@ body{
     color: white;
     padding: 16px;
     font-size: 16px;
-    Margin-left: 0px; 
+    margin-left: 0px; 
     border: none;
     cursor: pointer;
     font-family: 'Merriweather';
