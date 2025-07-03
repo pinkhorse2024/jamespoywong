@@ -11,17 +11,10 @@ body{
 #Topsection {
   display: flex;
   flex-direction: row;
-  align-items: center;      /* Vertically center children */
-  justify-content: space-between; /* Spread children to edges */
-}
-
-#writername {
-  margin-right: 20px;
-  color: #e6c222;
-  font-family: "Didot";
-  display: flex;
-  align-items: center;      /* Vertically center content inside */
-  justify-content: flex-end; /* Align to the right */
+  align-items: center;         /* Vertically center items */
+  justify-content: space-between; /* Push items to edges */
+  padding: 0 20px;             /* Optional: space on sides */
+  background: white;           /* Optional: match your design */
 }
 
 
@@ -43,15 +36,21 @@ body{
     	padding: 40px 0 40px;
 }
 
-
+#writername {
+  margin-right: 0;   /* Let flex handle spacing */
+  color: #e6c222;
+  font-family: "Didot";
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
 
 .dropbtn {
     background-color: gold;
     color: white;
     padding: 16px;
     font-size: 16px;
-    margin-top: 20px;
-    Margin-left: 20px; 
+    Margin-left: 0px; 
     border: none;
     cursor: pointer;
     font-family: 'Merriweather';
