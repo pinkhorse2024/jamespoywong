@@ -14,6 +14,16 @@ body{
 	
 }
 
+#top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px 20px;
+  background: white;
+  box-sizing: border-box;
+}
+
 #writername {
   display: flex;
 	float: right;
